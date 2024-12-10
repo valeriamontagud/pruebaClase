@@ -1,1 +1,6 @@
 Cualquier cosa
+
+
+derivación con nuevas funciones
+z=98485
+nuevas funciones
